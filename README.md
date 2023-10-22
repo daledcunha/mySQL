@@ -13,9 +13,9 @@ That data set is a sales data set of one of the most famous NFT projects, Crypto
 You might not understand all the jargon around the NFT space, but you should be able to infer enough to answer the following prompts.
 
 
- Have 
+ 
 
-
+Questions - 
  
 	1	How many sales occurred during this time period? 
 	2	Return the top 5 most expensive transactions (by USD price) for this data set. Return the name, ETH price, and USD price, as well as the date.
